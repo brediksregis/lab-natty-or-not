@@ -16,7 +16,7 @@ Este e-book é um guia prático voltado para contadores e assistentes fiscais, e
 
 ## 🚀 Resultados
 O resultado final é um e-book em PDF que serve como guia de consulta rápida e segura para escritórios de contabilidade. 
-[Link para o E-book em PDF aqui] (Você pode fazer o upload do PDF no próprio GitHub e colocar o link dele aqui!)
+[Link para o E-book em PDF aqui.] (Você pode fazer o upload do PDF no próprio GitHub e colocar o link dele aqui!)
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi garantir que a IA explicasse com precisão os lançamentos contábeis (Débito e Crédito em contas de compensação) sem perder a didática simples para quem está iniciando na área.
