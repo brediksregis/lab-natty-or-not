@@ -137,7 +137,7 @@ Os prestadores parceiros (MEIs) devem emitir suas notas fiscais de forma a deixa
   * O campo de **"Responsabilidade de retenção do ISS"** deve ser marcado como **"Não"**. Isso vincula fiscalmente a operação de intermediação à transação financeira.
 
 #### 2. Segregação e Isolamento da Base de Cálculo do DAS
-Na apuração do DAS (Documento de Arrecadação do Simples Nacional), geralmente enquadrado no Anexo III, o analista deve desconsiderar o fluxo financeiro total do extrato e focar apenas no faturamento real.
+Na apuração do DAS (Documento de Arrecadação do Simples Nacional), geralmente enquadrado no Anexo IV, o analista deve desconsiderar o fluxo financeiro total do extrato e focar apenas no faturamento real.
 * *A Regra:* A base de cálculo do imposto deve ser **exclusivamente** o somatório das notas fiscais de comissão emitidas pela própria intermediadora. Todo o restante do valor que transitou na conta corrente bancária deve ser isolado e excluído do cálculo de impostos da intermediadora.
 
 #### 3. O Veto Absoluto à Subcontratação (Perigo!)

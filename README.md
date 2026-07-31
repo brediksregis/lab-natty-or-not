@@ -1,7 +1,7 @@
 # Guia Prático: Neutralidade Fiscal e Conta de Repasse 📊
 
 ## 📒 Descrição
-Este e-book é um guia prático voltado para contadores e assistentes fiscais, explicando como funciona o fechamento contábil e a conciliação de contas de trânsito/repasse em empresas intermediadoras de serviços, evitando a bitributação no Simples Nacional.
+Este e-book é um guia prático voltado para contadores e assistentes contábeis, explicando como funciona o fechamento contábil e a conciliação de contas de trânsito/repasse em empresas intermediadoras de serviços, evitando a bitributação no Simples Nacional.
 
 ## 🤖 Tecnologias Utilizadas
 * **Gemini** (IA Generativa de texto) para estruturar os capítulos e traduzir conceitos contábeis complexos em uma linguagem mais didática e simples.
